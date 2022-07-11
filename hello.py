@@ -1,1 +1,1 @@
-print("Lets code now!")
+print("Lets code, now!")
